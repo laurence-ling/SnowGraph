@@ -1,2 +1,6 @@
 /target/
 /.apt_generated/
+/.*
+/*.xml
+/*.iml
+/img
